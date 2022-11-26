@@ -1,0 +1,85 @@
+You may see someone posted a video in any video sharing website/sofware that he let you to send a har file/cookies to his docs/discord server.
+and congratulations you just got beamed by him!
+
+back to the point.
+
+What is cookie? *
+-A cookie is a piece of data from a website that is stored within a web browser that the website can retrieve at a later time. Cookies are used to tell the server that users have returned to a particular website.
+(the easiest way to tell is cookie can let you accept your victim account without his password/username/2fa code)
+
+
+
+
+How to i get roblox cookie? *
+-there alot of methods to get cookie.The easiest way to check/get your cookie is install Editthiscookie (https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg?hl=en)
+
+
+
+
+
+How to login account using cookie? *
+-if you wanna try it on yourself
+1.Make two account (one will be the "beamer" and "victim")
+
+2.Make sure you already login to the "victim" account.
+
+2.Open up editthiscookie by pressing the extension tap in top right and hit the cookie icon,
+
+4.you will see something call ROBLOSECURITY, hit it and copy the value. (WARNING-DO-NOT-SHARE....)
+
+5.Make sure do not logout and change the password of the "victim" account or the cookie will refreshed and you will lost your beams.
+
+6.Login your "beamer" account using a different gmail. (if you only got one gmail,make one then)
+
+7.Go to your "beamer" account and replace the ROBLOSECURITY value to your "victim" value.
+
+8.press the lock beside the value bar and you will see it turn to green.
+
+9.check/tick the box down below. (that one show green color)
+
+10.refresh your page and you just logged in.
+
+
+
+
+
+but this is only for YOURSELF,you cant login your victim using its due to IP detection
+-here is how you cookielog your victim.
+
+1.get your victim cookie by using methods.If you dont got one,check the methods I shared.
+
+2.Once you get the cookie,make sure your victim and you won't logout his account and changed password.
+
+3.Go to https://story-of-jesus.xyz/iplockbypass  , input your cookie and hit bypass.
+
+4.Copy the cookie you bypassed and replace the value for your beamer account
+
+5.refresh and you got in.
+
+
+
+
+
+Roblox methods safety
+-if you had seen someone offer or share a phishing link generator/phishing link dont be a retard rlly did what they want
+
+Phishing link generator
+what is this?
+-A phishing website is a domain similar in name and appearance to an official website. They're made in order to fool someone into believing it is legitimate
+(if sum1 sent you a roblox link,make sure the link domain start with https://web.roblox.com or https://roblox.com)
+(if sum1 sent you a phishing link generator,keep in mind,the generator may get dualhooked and if you get hits/logs,your hits also will sent to the owner who offer you the generator (Not all phishing link generator)
+
+
+
+
+
+You had learn most kind of guide about roblox beaming
+(make sure use a alt everytime during beam)
+
+
+leave a star for our github.TY
+
+
+
+
+
