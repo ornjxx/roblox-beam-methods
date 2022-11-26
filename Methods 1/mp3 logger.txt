@@ -1,0 +1,13 @@
+MP3 METHOD
+
+Downloads:  https://cdn.discordapp.com/attachments/834973172146110544/841703949920501781/MusicIcon.ico
+
+1.) Create a stub using Depression or Force Venom (;stub) remove the "Patch.exe" from the zip it's a trojan 
+
+2.) Now disguise your icon as the mp3 icon 
+
+3.)  Rename your stub to 
+"AudioName.mp3                                                                                                                                                                                                          .exe"
+ and upload it to https://mega.nz/ copy your download link and send it to your target
+
+4.) Now send it to your target and ask them to listen to your audio

@@ -1,0 +1,11 @@
+1. First, for this to let you gain anything at all. You're going to need to make a game, i'd recommend going on v3rmillion and finding a profile that copies game maps just in case it goes wrong.
+
+2. Inside of the map, either make a UI with a "Donation Menu", or setup Developer Buttons where people can buy things for Robux (eg. VIP).
+
+3. Join a game or any server and promote that you are looking for game moderators before you launch your game. Tell them that you get a lot of donations and mods will be paid fairly for their work.
+
+4. Link them to your game and have it on friends only, if your map is looking bland and doesn't work well as a game. Tell them that you've hired a Developer who is doing your scripts currently. Now tell them that ROBLOX has a new way of giving moderator permissions due to the amount of Moderation accounts being hacked.
+
+5. Tell them that their going to need their Authentication ticket, and explain that this is the Unique identifier to their account and only works on the PC that they are currently on.
+6. (How to get the ticket) : First tell them to leave your game then ask they if when they open roblox do they get the "Allow this site to open an application?" message (example at the bottom). If they say yes then you are set for the next step, if they say no tell them that they're going to need that message to receive the Auth Ticket. Explain that the steps to do-so are going to https://portableapps.com/apps/internet/firefox_portable and installing Firefox Portable, now go to roblox.com and login. Tell them to head over to your game and click on the Play button, this should bring up their prompt.
+PortableApps.com - Portable software for USB, portable, and cloud drives

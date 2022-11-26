@@ -1,0 +1,8 @@
+https://www.mediafire.com/file/jkg6uqew2ot7d9v/message_1_%25282%2529.txt/file
+For this to work you'll have to be on the Web-Version of Discord 
+
+1.) Ctrl Shift + I or right click and click Inspect Element this should prompt Developer tOOLS
+
+2.) Navigate to console and paste the code into your Chrome Console
+
+3.) You should get a prompt window select auto for everything and you can delete all your messages without getting banned!

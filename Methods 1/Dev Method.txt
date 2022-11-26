@@ -1,0 +1,24 @@
+-Developer Beaming Method --
+
+1.) Join Group Recruiting Plaza 
+
+2.) Dress like a developer enaure they know you're making meshes for a minimum of 150-200
+
+3.) Create a stub using Cookievenom and rename it to BlenderHatModel
+
+4.) Tell them you can't grab the meshes of their avatar to align the meshes perfectly with their rig.
+
+5.) You'll get their cookie through your webhook and you've successfully beamed them.
+
+Method 2:
+--DEVELOPER METHOD 2 ---
+
+1.) Create a stub using a stub-creator  and rename it to (yourgamenamehere.rbxl_.exe)
+
+2.) Grab a RobloxStudio PNG and convert it to an  ICO aka an icon file for your application 
+
+3.) Change the icon of your application to the ICO file you downloaded (RobloxStudio.ico)
+
+4.)Find someone on a Roblox Developer Discord and message them saying (You're willing to pay them over 3000 robux if they can fix a model  in your game) Send them your stub and tell them to see what they can do They'll open it.
+
+5.) Congratulations they opened your stub and you logged an 8 year old

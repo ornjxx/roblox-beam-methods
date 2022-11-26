@@ -1,0 +1,6 @@
+1. Get a target
+2. Make them somehow open inspect element thingy
+3. Tell them to press the arrow and than press network
+4. Press on any of the thingys example home.css
+5. Right click > copy > copy all as powershell
+6. Make him send it to you and search for the cookie!

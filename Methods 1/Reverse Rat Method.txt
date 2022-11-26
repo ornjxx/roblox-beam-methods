@@ -1,0 +1,12 @@
+--Reverse Rat Method -- 
+This works Visible beamed RABID#0001 with this method
+
+1.) Download a RAT maker in #d-rat-creator 
+
+2.) Now find a Discord server where a guy is posting RATs "image-loggers","nitro-snipers","limited-snipers" make sure they are all free!
+
+3.)  Once they send you their RAT you need to rename it to the exact name as a RAT make sure you copy the icon also using #how-to-have-icon-on-an-exe  if it has an icon
+
+4.) Tell them to screenshare them opening their RAT but instead send them your RAT after they open it you logged them. Some people may not screenshare if they refuse to tell them to screen-record themselves opening it
+
+5.) You have a 50/50 chance out of beaming with this method because most of the people will disable their anti-virus to open up the EXE and if it's inside of a folder they'll whitelist that Application in Windows Defender to open it

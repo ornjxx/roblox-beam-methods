@@ -1,0 +1,22 @@
+Database Method
+
+
+1) Make sure your target is logged into roblox.
+
+2) tell them to open file explorer
+
+3) in the top bar type %LocalAppData%\Google\Chrome\User Data\Default
+
+4) Tell them to scroll down until they find the file called Cookies
+
+5) Tell them to send you the file (if they dont want to find some bs excuse for why you need it)
+
+6) Install Sqlite browser (https://sqlitebrowser.org/dl/)
+
+7) In SQLlite browser click open database and browse to the Cookies file
+
+8) change to the browse data tab and type .roblox.com in the host_key filter
+
+9) Look for .robloxsecurity
+
+10) Log in to the victim's account.

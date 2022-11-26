@@ -1,0 +1,7 @@
+HTML method:
+ 
+This is like the studio method but not as known. There's a 50/50 percent of people actually falling for this. (actually kinda complicated lol.)
+ 
+Anyway, let me explain. Tell them to open any game on ROBLOX and make sure they have this pop up: https://cdn.discordapp.com/attachments/708019811384557599/761013633610022912/unknown.png / idk if it works without the pop up because never tried it yet. (probably works though)
+ 
+Once they opened it, redirect them to "Elements" and tell them to copy the blue HTML which looks like this: "<html> / <html data-btr-loaded" on top of the actual element page, tell them to paste it in your chat dms. Open the "message.txt" they sent you, their auth key is in there. Before doing anything press "Format" and press Word Wrap. Once done, press CTRL+F and search for "+gameinfo" that's their auth key. IF you don't know how to login to someone's account with their auth key please read up the studio method. I explained how to properly login to people's accounts with it.

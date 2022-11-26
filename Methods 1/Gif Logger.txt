@@ -1,0 +1,11 @@
+GIF Logger Method
+
+Watch this video:  https://youtu.be/zN_A2N-kA0Y 
+
+This will show you low to hide the payload in a gif.
+
+Find an image on google.
+
+Create a stub
+
+Put both of the your gif and stub and create a sfx archive Instead of running a .png file in the run after extraction run your .gif

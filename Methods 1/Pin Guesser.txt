@@ -1,0 +1,6 @@
+tips for password guessing:
+0000-999,
+ 1234, 
+their birthday, 
+their birthyear,
+ the numbers in their username

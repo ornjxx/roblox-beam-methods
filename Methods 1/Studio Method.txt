@@ -1,0 +1,31 @@
+Studio method : 1. Go to trade hangouts or any other game of your taste, and seek for a target. Look for someone with around 40k-100k rap,
+
+if you have 200k rap it highers the success rate, makes it look more believable.
+
+2. Go around trade hangout (or any other game of your taste) saying "can u build, do gfx or script?" paying 15k robux upfront.
+
+3. They say yes and think that they are scamming you, but are really getting scammed themselves.
+
+4. Ask for their discord and add them.
+
+5. Now when have them added  say "okay 1 minute", then say your team create isn't working.
+
+6. Say "can you send me your teamcreate code?" and tell them you'll show them how.
+
+7. By now they are confused, so you tell them to click edit on a game in studio.
+
+8. Once the did so, a notification will pop up asking them if they want to open up ROBLOX.
+
+7. Tell them to press CTRL+SHIFT+J to open up the developer console.
+
+9. Now that they're in the developer console, you tell them to scroll all the way to the bottom and find their "Gamelaunch link".
+
+10. Tell them to copy it and send it to you, if they question it tell them it's a link that allows you to open up the game, since your studio wont let you.
+
+11. Now paste their link in another tab and it'll open ROBLOX studio on their account.
+
+12. Now you go to manange plugins in roblox studio and find plugins.
+
+13. You're now on their account, do whatever you want!
+
+14. Profit??

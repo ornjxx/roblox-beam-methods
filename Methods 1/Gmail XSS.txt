@@ -1,0 +1,21 @@
+gmail xss.
+
+Things you will need: A VM with kali linux, BeEF.
+
+1) Once you have your virtual machine with kali linux on it, install BeEF. It's a pain to install but it's worth it. When customising the site, put the redirect to whatever site you want to get the cookies from.
+2) Now for the easy part, get the victim to click the link you created or spoofed with BeEF.
+3) After they have done that, wait a few seconds on your virtual machine, then click on "commands".
+4) Search for "google phishing"
+5) On the right the information will show up; login to that, and change the roblox email and password.
+
+https://www.youtube.com/watch?v=RIaEV31YLmk - BeEf
+
+https://www.virtualbox.org/ - Free vm
+YouTube
+Technology Guru
+How to install BeEF in kali linux..........................
+
+Boom
+YouTube
+Technology Guru
+How to install BeEF in kali linux..........................

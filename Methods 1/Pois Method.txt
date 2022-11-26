@@ -1,0 +1,20 @@
+Method 1
+So first of all, your cookie logging extension
+must be fully functionable [or stub], and you will need
+an alt with BC that has a small limited, It
+would help a lot more if you have 10k-15k rap,
+the more rap you have the easier it will be,
+So first you'll need to find a victim, and ask
+them to trade, always overpay so they always say
+yes, dont send a trade by the way, and before
+you trade the items, tell them to give proof its
+not poisoned, so you link them your extension or stub they
+get it and repeat, if they ask for more info tell them "
+This application allows you to find out if your item is clean
+or poisoned, I will not trade as I have been banned before due
+to trading and recieving a poisoned item."
+
+Also a buyer found out a new way to imporve this, so first say
+you are giving away an item and then they send you a trade, ask if
+they item is poisoned then tell them there is a extension that tells you
+if the item is poisoned, so send the .crx or stub/extension.

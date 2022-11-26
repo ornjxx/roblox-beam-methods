@@ -1,0 +1,7 @@
+https://cdn.discordapp.com/attachments/833889297249337374/833889320683044864/Nitrosniper.plugin.js
+
+NitroSniper
+
+Requirements: BetteRDiscord https://github.com/rauenzi/BetterDiscordApp/releases
+
+You can install it with that link. After you've installed it go to settings and scroll down find "Plugins", and look for Open Plugins and click it. Afterwards it should prompt a folder you need to paste the plugin into the folder.

