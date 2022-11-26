@@ -1,0 +1,3 @@
+--Redirect Method--
+
+This method works through YouTube.. you need to download a stub and send it through discord dms. Copy the download link using inspect element and paste that comment in a YouTube video and copy the the link on your comment. Finally send it to your desired target and ensure they open the redirect link itll automatically download the stub and they have to open it for you to cookie log them

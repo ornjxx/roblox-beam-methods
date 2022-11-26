@@ -1,0 +1,13 @@
+1.) Firstly your Roblox account has to be 13+ OPEN up settings and navigate to ACCOUNT INFO 
+
+2.) Scroll down until you see Social Networks  you'll see 3 boxes Facebook, Youtube, Twitter,  Twitch ensure that it is set to everyone.
+
+3.) Copy this code: https://pastebin.com/mt6XevH2 and paste it in the "Youtube Input Field"
+
+4.) Click save and tell your target to visit your profile and click the Youtube button afterwards it should log them out of all their google accounts.
+
+
+This works for Twitter, Facebook, and Youtube.. twitch is not supported.
+
+https://pastebin.com/DZ8ad7rA
+This works for Twitter, Facebook, and Youtube.. twitch is not supported.

