@@ -1,0 +1,15 @@
+- HAR audio method --
+
+1.) Join a popular Roblox Discord Server
+
+2.) Find someone on the server and message them saying you'll pay them 400 robux if they can download an audio for you. (Make sure they're decent valued and your not scamming innocent kids for no reason.)
+
+3.) Send your victim this clip https://streamable.com/tb6bmb and that'll explain how to get the Audio Bytecode
+
+4.) After they've watched the clip tell them to send you the Audio Bytecode that they downloaded 
+
+5.) Open it in Notepad or Notepad++ and look for .ROBLOXSECURITY and copy it.
+
+6.) how to login into cookies.
+
+7.) Beamed the person
