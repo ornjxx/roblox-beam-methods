@@ -1,4 +1,4 @@
-
+Join for main methods https://discord.gg/JXVvKhFETK (Link available)
 
 This program is for educational purposes only.  
 How you use this program is your responsibility. 
