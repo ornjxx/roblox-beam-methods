@@ -23,7 +23,7 @@ How to login account using cookie? *
 
 2.Make sure you already login to the "victim" account.
 
-2.Open up editthiscookie by pressing the extension tap in top right and hit the cookie icon,
+3.Open up editthiscookie by pressing the extension tap in top right and hit the cookie icon,
 
 4.you will see something call ROBLOSECURITY, hit it and copy the value. (WARNING-DO-NOT-SHARE....)
 
